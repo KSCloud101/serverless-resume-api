@@ -2,11 +2,10 @@
   "basics": {
     "name": "Kieron Stewart",
     "label": "Aspiring Cloud Engineer",
-    "image": "",
     "email": "kieron_stewart@hotmail.com",
     "phone": "+447533713822",
     "url": "https://kieronstewart.com",
-    "summary": "A summary of John Doe…",
+    "summary": " worked in the motor trade industry for over a decade and I am well-known for my problem-solving skills and exceptional customer service. Recently, I have obtained the SC-900 and AZ-900 certifications, which signify my transition into IT with a focus on becoming a Cloud engineer.",
     "location": {
       "address": "26 Mysore Road",
       "postalCode": "SW11 5SB",
@@ -14,105 +13,120 @@
       "countryCode": "UK",
       "region": "Wandsworth"
     },
-    "profiles": [{
-      "network": "LinkedIn",
-      "username": "john",
-      "url": "https://twitter.com/john"
-    }]
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Kieron Stewart",
+        "url": "www.linkedin.com/in/kieron-stewart"
+      }
+    ]
   },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [{
-    "name": "Project",
-    "description": "Description…",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "keywords": [
-      "HTML"
-    ],
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "url": "https://project.com/",
-    "roles": [
-      "Team Lead"
-    ],
-    "entity": "Entity",
-    "type": "application"
-  }]
+  "work": [
+    {
+      "name": "Mikes Coachworks",
+      "position": "Vehicle Technician & MOT Tester",
+      "startDate": "02-01-2012",
+      "endDate": "29-12-2023",
+      "summary": "Responsibilities include: Vehicle Inspections, Vehielce Repairs, MOT Testing, Vehicle Diagnostics,",
+      "highlights": [
+        "Started the company as an apprentice and worked my way up to a management position",
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Emanuel School",
+      "url": "https://www.emanuel.org.uk/",
+      "area": "A-Levels",
+      "courses": [
+        "Biology",
+        "Chemistry",
+        "Maths"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)",
+      "date": "28-10-2023",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/en-gb/KieronStewart-7507/BE48AE81CDEB857D?sharingId"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+      "date": "14-10-2023",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/en-gb/KieronStewart-7507/9981E45445B7DE7F?sharingId"
+    },
+    {
+      "name": "CompTIA A+",
+      "date": "09-09-2023",
+      "issuer": "CompTIA",
+      "url": "https://www.credly.com/badges/edc38086-300f-4de1-9e10-a8553e230664/linked_in_profile"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Ability to navigate Azure services and perform basic tasks",
+        "Foundational understanding of cloud security principles",
+        "Python: Basic Proficiency",
+        "Technical Troubleshooting and Problem Solving",
+        "Customer Service Excellence",
+        "Strong Analytical and Diagnostic Skills",
+        "Team Collaboration and Leadership",
+        "Effective Communication"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Reading",
+        "Muay Thai",
+        "Running"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cloud Project",
+      "description": "Serverless Resume API",
+      "highlights": [
+        "Devoloped a Serverless Resume API using DevOps best practices including Infrastructure as Code, CI/CD, and Automated Testing"
+      ],
+      "keywords": [
+        "Azure Functions",
+        "Azure Blob Storage",
+        "GitHub Actions",
+        "Git",
+        "Bicep"
+      ],
+      "url": "https://github.com/KSCloud101/serverless-resume-api"
+    },
+    {
+      "name": "Weather Web App",
+      "description": "Weather Web App built using Python and Flask ",
+      "highlights": [
+        "Devoloped a Serverless Resume API using DevOps best practices including Infrastructure as Code, CI/CD, and Automated Testing"
+      ],
+      "keywords": [
+        "Python",
+        "Flask",
+        "GitHub Actions",
+        "Git"
+      ],
+      "url": "https://github.com/KSCloud101/python-weather"
+    }
+  ]
 }
