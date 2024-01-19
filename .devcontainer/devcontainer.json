@@ -48,6 +48,5 @@
             "label": "Resume API",
             "onAutoForward": "notify"
         }
-        
     }
 }
