@@ -8,7 +8,7 @@ on:
       - 'src/**'
 
 env:
-  AZURE_FUNCTIONAPP_NAME: 'lykx7lblw42o6apifunc'
+  AZURE_FUNCTIONAPP_NAME: 'mfqf65d5yi4qkapifunc'
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.github/workflows/build.yml' # set this to the path to your function app project, defaults to the repository root
   DOTNET_VERSION: '8.0.x'
 
